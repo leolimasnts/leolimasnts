@@ -1,8 +1,11 @@
-# Hi there 👋
-- I'm from Brazil
-- 17 years old 
-- Entering college
-- I want to be a Dev!
+### Hey, I'm Leonardo 👋
+
+- Also known as **Leo** ou **Leleco**
+-
+
+### I'm trying to 🏫
+- Go to a college
+- Be a Dev!
 
 <!--
 **leolimasnts/leolimasnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
