@@ -1,11 +1,17 @@
 ### Hey, I'm Leonardo 👋
 
-Also known as **Leo** ou **Leleco**
+Also known as **Leo** ou **Leleco**! <br>
+I'm from Brazil!
 
 
 ### I'm trying to 🏫
-Go to a college //
+Go to a college <br>
 Be a Dev!
+
+### Find me on 🪐
+- [**Instagram**](https://www.instagram.com/_leoolima)
+
+
 
 <!--
 **leolimasnts/leolimasnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
