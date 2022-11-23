@@ -1,7 +1,7 @@
 ### Hi there 👋
-### I'm from Brazil! 💚💙💛
-### 17 years old
-### I'm Finishing Highschool
+### I'm from Brazil
+### 17 years old 
+### Entering college
 ### I want to be a Dev!
 
 <!--
