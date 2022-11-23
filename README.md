@@ -1,8 +1,8 @@
 ### Hi there 👋
-#I'm from Brazil
-#17 years old 
-#Entering college
-#I want to be a Dev!
+# I'm from Brazil
+# 17 years old 
+# Entering college
+# I want to be a Dev!
 
 <!--
 **leolimasnts/leolimasnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
