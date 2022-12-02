@@ -1,7 +1,7 @@
 ### Hey, I'm Leonardo 👋
 
-Also known as **Leo** ou **Leleco**! <br>
-I'm from Brazil!
+Also known as **Leo** ou **Leleco**. <br>
+I'm from Brazil.
 
 
 ### I'm trying to 🏫
