@@ -5,7 +5,7 @@ I'm from Brazil.
 
 
 ### I'm trying to 🏫
-Enter college. <br>
+Get into college. <br>
 Be a DevOps!
 
 ### Find me on 🪐
