@@ -6,10 +6,11 @@ I'm from Brazil!
 
 ### I'm trying to 🏫
 Go to a college <br>
-Be a Dev!
+Be a DevOps!
 
 ### Find me on 🪐
 - [**Instagram**](https://www.instagram.com/_leoolima)
+- [**LinkedIn""](https://www.inlkedin.com/in/leonardo-lima-95504621a)
 
 
 
