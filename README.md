@@ -10,7 +10,7 @@ Be a DevOps!
 
 ### Find me on 🪐
 - [**Instagram**](https://www.instagram.com/_leoolima)
-- [**LinkedIn**](https://www.linkedin.com/in/leonardo-lima)
+- [**LinkedIn**](https://www.linkedin.com/in/leonardo-lima-santos)
 
 
 
