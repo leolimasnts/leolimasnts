@@ -1,14 +1,12 @@
 ### Hey, I'm Leonardo 👋
 
-Also known as **Leo** ou **Leleco**. <br>
+Also known as **Leo**. <br>
 I'm from Brazil.
 
 
-### I'm trying to 🏫
-Get into college. <br>
-Be a DevOps!
+I'm trying to get into Computer's Science College
 
-### Find me on 🪐
+### Find me on:
 - [**Instagram**](https://www.instagram.com/_leoolima)
 - [**LinkedIn**](https://www.linkedin.com/in/leonardo-lima-santos)
 
