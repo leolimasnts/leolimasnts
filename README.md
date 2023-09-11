@@ -3,7 +3,7 @@
 - 🚀 Apaixonado por Aprender e Explorar Novos Horizontes  
 - 🔍 Interessado em Ciência e Análise de Dados  
 - 📧 Contato: leolimaasantos@gmail.com
-- 🌟 Visite meu portfólio: [www.linkedin.com/in/leonardolimasantos ](https://www.linkedin.com/in/leonardo-lima-santos/)
+- 🌟 Visite meu portfólio: [www.linkedin.com/in/leonardo-lima-santos ](https://www.linkedin.com/in/leonardo-lima-santos/)
 
 ## 📚 Sobre Mim:
 Olá! Sou Leonardo Lima Santos, atualmente estudo Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Tenho uma profunda paixão por tecnologia e estou sempre empolgado para aprender coisas novas e explorar novos horizontes.
