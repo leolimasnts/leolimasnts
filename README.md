@@ -3,7 +3,7 @@
 **Estudante de Ciência da Computação - UFRJ**
 
 📍 Rio de Janeiro, RJ  
-[LinkedIn: Leonardo Lima](https://www.linkedin.com/in/leonardo-lima)  
+[LinkedIn: Leonardo Lima](https://www.linkedin.com/in/leonardo-lima-santos)  
 [GitHub: leolimasnts](https://github.com/leolimasnts)  
 
 ---
