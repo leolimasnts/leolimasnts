@@ -1,60 +1,45 @@
 # Leonardo Lima Santos
 
-**Estudante de Ciência da Computação - UFRJ**
+- Email: [leolimassantos@gmail.com](mailto:leolimassantos@gmail.com)
+- Location: Rio de Janeiro, RJ
+- LinkedIn: [leonardo-lima-santos](https://linkedin.com/in/leonardo-lima-santos)
+- GitHub: [leolimasnts](https://github.com/leolimasnts)
 
-📍 Rio de Janeiro, RJ  
-[LinkedIn: Leonardo Lima](https://www.linkedin.com/in/leonardo-lima-santos)  
+
+# Resumo
+
+Estudante de Ciência da Computação no quinto período, com forte interesse em ciência e análise de dados. Busco aplicar técnicas de análise estatística e visualização de dados em um ambiente profissional para contribuir com projetos que apoiem decisões de negócios informadas.
+
+# Educação
+
+## UFRJ, Bacharelado in Ciência da Computação
+
+- Jan 2023 – Jun 2027
+
+# Projetos
+
+## Análise de Afinidade Acadêmica
 
 
----
+## Banco de Dados de Campeonato de League of Legends
 
-## Resumo
-Sou estudante de Ciência da Computação na UFRJ, apaixonado por tecnologia com forte interesse em análise de dados e machine learning. Proativo e comunicativo, busco constantemente aprimorar minhas habilidades para desenvolver soluções inovadoras em computação. Motivado a aplicar e expandir minhas competências em ambientes dinâmicos e centrados nas pessoas.
+- Criação de consultas SQL complexas para análise estatística
+- Integração front-end com banco de dados local
 
----
+# Habilidades
 
-## Experiência
+- Habilidades Técnicas: Python (Numpy, Pandas, SQLAlchemy), Julia, MySQL, C, Java, Git/GitHub, Linux, Windows,  HTML, CSS, JavaScript.
+- Habilidades Analíticas: Análise exploratória de dados, Limpeza e preparação de datasets, Modelagem estatística, Visualização de dados avançada, Interpretação de resultados quantitativos, Identificação de padrões e tendências.
+- Habilidades Interpessoais: Comunicação eficaz, Trabalho em equipe colaborativo, Resolução de problemas complexos, Pensamento crítico, Gestão de tempo, Adaptabilidade, Apresentações para stakeholders
+- Habilidades Complementares.: Comunicação de insights técnicos para stakeholders, Apresentação de relatórios analíticos, Pensamento crítico e solução de problemas, Adaptabilidade a novas ferramentas.
+- Idiomas: Português (Nativo), Inglês (Fluente)
+# Atividades Extracurriculares
 
-**DICA - Analista de Dados**  
-*Julho 2023 - Dezembro 2023*  
-Membro da equipe de dados do projeto DICA (Diferenciação e Integração em Cálculo), uma plataforma desenvolvida para auxiliar os alunos recém-admitidos na UFRJ a superarem os desafios das disciplinas de cálculo. Atuei na análise detalhada de questões e respostas, contribuindo para a melhoria contínua dos conteúdos e da experiência dos usuários.
+## Projeto de Extensão DICA - UFRJ
 
----
+- Jul 2023 – Dez 2023
 
-## Educação
+## Iniciação Científica em Grafos Fractais
 
-**UFRJ - Ciência da Computação**  
-*Janeiro 2023 - Julho 2027*  
-Graduação
+- Out 2024 – presente
 
----
-
-## Competências
-
-**Linguagens de Programação**  
-- C
-- C++
-- Java
-- Python
-- Julia
-
-**Ferramentas e Tecnologias**  
-- SQL
-- Excel
-- Álgebra Linear
-- Computação Científica
-- Estrutura de Dados
-
-**Competências Interpessoais**  
-- Comunicação
-- Trabalho em Equipe
-
----
-
-## Idiomas
-
-**Português**  
-Nativo
-
-**Inglês**  
-Fluente
