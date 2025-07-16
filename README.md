@@ -1,35 +1,59 @@
 # Leonardo Lima Santos
-Rio de Janeiro, RJ  
-<leolimassantos@gmail.com>  
-LinkedIn: [leonardo-lima-santos](https://www.linkedin.com/in/leonardo-lima-santos) | GitHub: [leolimasnts](https://github.com/leolimasnts)
+
+**Rio de Janeiro, RJ** | **leolimassantos@gmail.com** | **[linkedin.com/in/leonardo-lima-santos](https://linkedin.com/in/leonardo-lima-santos)** | **[github.com/leolimasnts](https://github.com/leolimasnts)**
+
+---
 
 ## Resumo
-Estudante de Ciência da Computação no quinto período, com forte interesse em ciência e análise de dados. Busco aplicar técnicas de análise estatística e visualização de dados em um ambiente profissional para contribuir com projetos que apoiem decisões de negócios informadas.
+Estudante de Ciência da Computação no sexto período, com interesse em análise de dados, estatística e visualização de informações. Procura aplicar técnicas de ciência de dados em projetos que contribuam para decisões estratégicas baseadas em dados.
+
+---
 
 ## Educação
-**UFRJ** Bacharelado em Ciência da Computação  
-*Jan 2023 – Jun 2027 (previsto)*
-> **Cursos Relevantes:** Estatística e Probabilidade, Computação Científica e Análise de Dados, Banco de Dados, Estruturas de Dados
+
+### UFRJ, Bacharelado em Ciência da Computação
+*Jan 2023 – Jun 2027*
+- **Cursos relevantes:** Estatística e Probabilidade, Computação Científica e Análise de Dados, Banco de Dados, Estruturas de Dados, Algoritmos e Grafos.
+- **CRA:** 8.1/10
+
+---
 
 ## Projetos
-**Análise de Afinidade Acadêmica** Analisei dados acadêmicos utilizando técnicas de redução de dimensionalidade e agrupamento para identificar conexões entre disciplinas, professores e suas afinidades. Desenvolvi visualizações interativas (gráficos 3D e mapas de radar) e propus aplicações para otimizar o design curricular e auxiliar estudantes.
 
-**Banco de Dados de Campeonato de League of Legends** Tratamento e modelagem de dados de campeonatos utilizando Python (Pandas) e SQLAlchemy para migração para MySQL. Desenvolvimento de um site com HTML/CSS/JS para visualização dinâmica de dados.
-* Criação de consultas SQL complexas para análise estatística
-* Integração front-end com banco de dados local
+### Análise de Afinidade Acadêmica
+- Realizou análise de dados acadêmicos utilizando técnicas de machine learning de classificação para identificar conexões entre disciplinas e professores.
+- Desenvolveu visualizações interativas (gráficos 3D, mapas de radar) e propôs melhorias para otimização curricular.
+- Identificou padrões de afinidade entre cursos.
+- Propôs uma solução para automatizar a alocação de professores em disciplinas e períodos letivos, otimizando o planejamento acadêmico.
+
+### Banco de Dados de Campeonato de League of Legends
+- Executou tratamento e modelagem de dados de campeonatos com Python (Pandas) e SQLAlchemy para migração para MySQL.
+- Desenvolveu site com HTML, CSS e JavaScript para visualização dinâmica de estatísticas.
+- Criou consultas SQL complexas para análises estatísticas.
+- Integrado front-end com banco de dados local.
+
+---
 
 ## Habilidades
-**Habilidades Técnicas:** Python (Numpy, Pandas, SQLAlchemy), Julia, MySQL, C, Java, Git/GitHub, Linux, Windows, HTML, CSS, JavaScript.
 
-**Habilidades Analíticas:** Análise exploratória de dados, Limpeza e preparação de datasets, Modelagem estatística, Visualização de dados avançada, Interpretação de resultados quantitativos, Identificação de padrões e tendências.
+- **Habilidades Técnicas:** Python (Numpy, Pandas, SQLAlchemy), Julia, MySQL, C, Java, Git/GitHub, Linux, Windows, HTML, CSS, JavaScript.
+- **Habilidades Analíticas:** Análise exploratória de dados, Limpeza e preparação de datasets, Modelagem estatística, Visualização de dados, Interpretação de resultados, Identificação de padrões e tendências.
+- **Habilidades Interpessoais:** Comunicação eficaz, Trabalho em equipe, Resolução de problemas complexos, Pensamento crítico, Gestão de tempo, Adaptabilidade, Apresentações para stakeholders.
 
-**Habilidades Interpessoais:** Comunicação eficaz, Trabalho em equipe colaborativo, Resolução de problemas complexos, Pensamento crítico, Gestão de tempo, Adaptabilidade, Apresentações para stakeholders
+---
 
-**Habilidades Complementares:** Comunicação de insights técnicos para stakeholders, Apresentação de relatórios analíticos, Pensamento crítico e solução de problemas, Adaptabilidade a novas ferramentas.
+## Idiomas
+- **Português:** Nativo
+- **Inglês:** Fluente
 
-**Idiomas:** Português (Nativo), Inglês (Fluente)
+---
 
 ## Atividades Extracurriculares
-**Analista de Dados Voluntário, Projeto de Extensão DICA - UFRJ** *Jul 2023 – Dez 2023* Colaboração em equipe para personalização de recomendações de usuários através de análise detalhada de dados, visando melhorar a experiência do usuário.
 
-**Iniciação Científica em Grafos Fractais** *Out 2024 – Presente* Desenvolvimento de algoritmos para análise de propriedades de grafos fractais e identificação de padrões através de técnicas de visualização de dados.
+### Projeto de Extensão DICA - UFRJ
+*Jul 2023 – Dez 2023*
+- Colaborou com equipe multidisciplinar para personalizar recomendações para usuários por meio de análise detalhada de dados, visando aprimorar a experiência do usuário.
+
+### Iniciação Científica em Grafos Fractais
+*Out 2024 – Jan 2025*
+- Desenvolveu algoritmos para análise de propriedades de grafos fractais e identificação de padrões por meio de técnicas de visualização de dados.
