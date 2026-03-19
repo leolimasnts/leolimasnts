@@ -12,7 +12,8 @@ Estudante de Ciência da Computação pela UFRJ com sólida base analítica e ex
 
 ## Experiências
 **Analista de Business Intelligence (Consultoria de Gestão)** — Addunt Consulting | Rio de Janeiro, RJ  
-*Set 2025 – Presente* - Implementei pipelines ETL para a consolidação de bases de dados complexas e descentralizadas.
+*Set 2025 – Presente*
+- Implementei pipelines ETL para a consolidação de bases de dados complexas e descentralizadas.
 - Utilizei ferramentas de Processamento de Linguagem Natural (NLP) para padronização e categorização automática de dados não estruturados.
 - Desenvolvi dashboards dinâmicos em Power BI, fornecendo visão executiva e monitoramento de indicadores de desempenho (KPIs).
 - Atuei com framework Scrum/Agile, executando sprints para garantir entregas incrementais.
