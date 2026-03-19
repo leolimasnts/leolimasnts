@@ -1,5 +1,5 @@
 # Leonardo Lima
-Rio de Janeiro, RJ | leolimaasantos@gmail.com | [GitHub](https://github.com/leolimasnts) | [LinkedIn](https://linkedin.com/in/leonardo-lima-santos) | +55 (21) 99559-0072
+Rio de Janeiro, RJ | leolimaasantos@gmail.com | [GitHub](https://github.com/leolimasnts) | [LinkedIn](https://linkedin.com/in/leonardo-lima-santos)
 
 ## Resumo
 Estudante de Ciência da Computação pela UFRJ com sólida base analítica e experiência em consultoria estratégica. Atuei como referência técnica em projetos para uma das maiores seguradoras do país, trabalhando diretamente com especialistas em excelência operacional. Proficiente em soluções de dados (Power BI, Python e SQL), estruturação de pipelines ETL e aplicação de IA Generativa/NLP em dados não estruturados.
